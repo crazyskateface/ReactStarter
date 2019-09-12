@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          jsconf react app
+          Best react app
         </p>
         <a
           className="App-link"
