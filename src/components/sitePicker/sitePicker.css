@@ -1,0 +1,18 @@
+.config {
+    color: red !important;
+}
+
+input {
+    width:30%;
+}
+
+.imagePreview {
+    width: 50%;
+    overflow:scroll;
+    margin-left:25%;
+    margin-top:5%;
+}
+
+img {
+    width:100%;
+}
